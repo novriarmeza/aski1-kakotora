@@ -1,0 +1,13 @@
+1. Aplikasi incoming LMK claim sudah tidak pake. infonya karena problem printer warna problem. bantu setting ke printer hitam putih. Settingan dari a4 ke a5
+
+2. input data NG komponen masih manual. target input menggunakan hp bulan depan. 15 jul 2020 paling lama
+
+3. Performance seat assy melebihi 100%. kenapa ? 
+
+4. Penginputan SPH dibuat 1 console untuk update by Eng
+
+5. Kalo 1 hari jalan 2 tipe berbeda di line yang sama, gimana cara nampilin performance ? saran: dibuat rata2 dari hari itu
+
+6. Aplikasi untuk supplier masih belum jalan (FRINA dan API)
+
+7. Seat Assy : summary masih 0% dan belum ada aplikasi utk inputan planning
